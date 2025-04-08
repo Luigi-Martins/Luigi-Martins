@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Luigi Gustavo Martins Rocha, tenho 24 anos e nasci em São Paulo - Capital.
+Me chamo Luigi Martins, tenho 24 anos e nasci em São Paulo - Capital.
 Conclui a faculdade de Análise e Desenvolvimento de sistemas em 2023 pela UNIP, mas tive meu primero contato com programação em 2019, desde então me aprofundei cada vez mais, iniciando pelo Front-End (HTML,CSS e JavaScript) pretendo com o tempo me tornar um Desenvolvedor Full-Stack, para me auxiliar nisso iniciei a Pós-Graduação pela FIAP 03/2025.
 
 ---
