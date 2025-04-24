@@ -39,10 +39,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 ### 🤖 Projetos
 
 Acadêmicos:
+<br>
 https://luigi-martins.github.io/bikcraft/    
 https://luigi-martins.github.io/projeto-animais-fantastico/
-
+<br>
 Pessoal (em andamento):
+<br>
 https://luigi-martins.github.io/projeto-costura/
 
 ### 🤖 Estatísticas
