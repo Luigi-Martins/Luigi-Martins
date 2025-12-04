@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Luigi Martins, tenho 24 anos e nasci em São Paulo - Capital.
+Me chamo Luigi Martins, tenho 25 anos e nasci em São Paulo - Capital.
 Conclui a faculdade de Análise e Desenvolvimento de sistemas em 2023 pela UNIP, mas tive meu primero contato com programação em 2019, desde então me aprofundei cada vez mais, iniciando pelo Front-End (HTML,CSS e JavaScript) pretendo com o tempo me tornar um Desenvolvedor Full-Stack, para me auxiliar nisso iniciei a Pós-Graduação pela FIAP 03/2025.
 
 ---
@@ -32,6 +32,14 @@ align="left"
   width="30px"
   style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img
+align="left"
+  alt="JavaScript"
+  title="JavaScript"
+  width="30px"
+  style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 
 <br>
 <br>
