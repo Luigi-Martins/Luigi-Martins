@@ -39,44 +39,44 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
   width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img
-  alt="JavaScript"
-  title="JavaScript"
+  alt="React"
+  title="React"
   width="30px"
   style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img
-  alt="JavaScript"
-  title="JavaScript"
+  alt="TypeScript"
+  title="TypeScript"
   width="30px"
   style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img
-  alt="JavaScript"
-  title="JavaScript"
+  alt="Nodejs"
+  title="Nodejs"
   width="30px"
   style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img
-  alt="JavaScript"
-  title="JavaScript"
+  alt="Docker"
+  title="Docker"
   width="30px"
   style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 <img
-  alt="JavaScript"
-  title="JavaScript"
+  alt="Mongodb"
+  title="Mongodb"
   width="30px"
   style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img
-  alt="JavaScript"
-  title="JavaScript"
+  alt="Python"
+  title="Python"
   width="30px"
   style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img
-  alt="JavaScript"
-  title="JavaScript"
+  alt="Nextjs"
+  title="Nextjs"
   width="30px"
   style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
