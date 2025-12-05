@@ -110,7 +110,7 @@ align="left"
   alt="GitHub Stats"
   height="150px"
   style="padding-right: 10px"
-src="(https://github-readme-stats.vercel.app/api?username=Luigi-Martins" />
+src="https://github-readme-stats.vercel.app/api?username=Luigi-Martins" />
 <img
 align="left"
   alt="GitHub Stats"
