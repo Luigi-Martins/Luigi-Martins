@@ -1,119 +1,54 @@
 # 🧑‍💻 Luigi Martins
 
-**`Desenvolvedor`**
+**`Desenvolvedor Front-End & Future Full-Stack`**
 
 Me chamo Luigi Martins, tenho 25 anos e nasci em São Paulo - Capital.
-Conclui a faculdade de Análise e Desenvolvimento de sistemas em 2023 pela UNIP, mas tive meu primero contato com programação em 2019, desde então me aprofundei cada vez mais, iniciando pelo Front-End (HTML,CSS e JavaScript) pretendo com o tempo me tornar um Desenvolvedor Full-Stack, para me auxiliar nisso iniciei a Pós-Graduação pela FIAP 03/2025.
+Conclui a faculdade de Análise e Desenvolvimento de sistemas em 2023 pela UNIP, mas tive meu primeiro contato com programação em 2019. Desde então me aprofundei cada vez mais, iniciando pelo Front-End (HTML, CSS e JavaScript). Pretendo com o tempo me tornar um Desenvolvedor Full-Stack e, para me auxiliar nisso, iniciei a Pós-Graduação pela FIAP (03/2025).
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="30px"
-  style="padding-right: 10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
 
-<img
-align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<br/>
 
-<img
-align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+### 📊 Estatísticas GitHub
 
-<img
-align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luigi-Martins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luigi-Martins&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
 
-<img
-align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<br/>
 
-<img
-align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+### 🚀 Projetos
 
-<img
-align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+**Acadêmicos:**
+* [Bikcraft](https://luigi-martins.github.io/bikcraft/)
+* [Animais Fantásticos](https://luigi-martins.github.io/projeto-animais-fantastico/)
 
-<img
-align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-
-<img
-align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-
-<br>
-<br>
-
-### 🤖 Projetos
-
-Acadêmicos:
-<br>
-https://luigi-martins.github.io/bikcraft/    
-https://luigi-martins.github.io/projeto-animais-fantastico/
-<br>
-Pessoal (em andamento):
-<br>
-https://luigi-martins.github.io/projeto-costura/
-
-### 🤖 Estatísticas
-
-<img
-align="left"
-  alt="GitHub Stats"
-  height="150px"
-  style="padding-right: 10px"
-src="https://github-readme-stats.vercel.app/api?username=Luigi-Martins" />
-<img
-align="left"
-  alt="GitHub Stats"
-  height="150px"
-  style="padding-right: 10px"
-src="code-stack-gamma.vercel.app/api/top-langs/?username=Luigi-Martins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" />
+**Pessoal (em andamento):**
+* [Projeto Costura](https://luigi-martins.github.io/projeto-costura/)
