@@ -1,11 +1,25 @@
 # 🧑‍💻 Luigi Martins
 
-**`Desenvolvedor`**
+**`Desenvolvedor Full-Stack`**
 
-Me chamo Luigi Martins, tenho 25 anos e nasci em São Paulo - Capital.
-Conclui a faculdade de Análise e Desenvolvimento de sistemas em 2023 pela UNIP, mas tive meu primero contato com programação em 2019, desde então me aprofundei cada vez mais, iniciando pelo Front-End (HTML,CSS e JavaScript) pretendo com o tempo me tornar um Desenvolvedor Full-Stack, para me auxiliar nisso iniciei a Pós-Graduação pela FIAP 03/2025.
+Olá, sou o Luigi Martins. 🧑‍💻
+
+Tenho 25 anos e transformo linhas de código em interfaces funcionais desde 2019. Formado em Análise e Desenvolvimento de Sistemas (UNIP), construí uma base forte em Front-End, desenvolvendo projetos que priorizam a semântica, acessibilidade e interfaces fluídas — utilizando HTML5, CSS3 (Grid/Flexbox) e JavaScript moderno.
+Acredito que a melhor forma de aprender é colocando a mão na massa. Por isso, mantenho um portfólio ativo onde aplico conceitos de UI Design e manipulação do DOM.
+Hoje, meu objetivo é expandir esse conhecimento para o ecossistema Full Stack. Para acelerar essa jornada, sou pós-graduando em Full Stack Development na FIAP, onde estou me aprofundando em arquitetura de software e tecnologias de back-end.
 
 ---
+
+<img 
+  align="left"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luigi-Martins&theme=gruvbox" alt="General stats badge"/>
+align="left"
+  alt="GitHub Stats"
+  height="150px"
+  style="padding-right: 10px"
+src="code-stack-gamma.vercel.app/api/top-langs/?username=Luigi-Martins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" />
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -105,15 +119,4 @@ https://luigi-martins.github.io/projeto-costura/
 
 ### 🤖 Estatísticas
 
-<img
-align="left"
-  alt="GitHub Stats"
-  height="150px"
-  style="padding-right: 10px"
-src="https://github-readme-stats.vercel.app/api?username=Luigi-Martins" />
-<img
-align="left"
-  alt="GitHub Stats"
-  height="150px"
-  style="padding-right: 10px"
-src="code-stack-gamma.vercel.app/api/top-langs/?username=Luigi-Martins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" />
+
