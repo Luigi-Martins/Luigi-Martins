@@ -13,7 +13,6 @@ Hoje, meu objetivo é expandir esse conhecimento para o ecossistema Full Stack. 
 <img 
   align="left"
   src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luigi-Martins&theme=gruvbox" alt="General stats badge"/>
-align="left"
 <img 
   align="left"
   src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luigi-Martins&theme=gruvbox" alt="Top languages by repo badge"/>
