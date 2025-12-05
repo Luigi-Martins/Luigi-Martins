@@ -11,13 +11,10 @@ Hoje, meu objetivo é expandir esse conhecimento para o ecossistema Full Stack. 
 ---
 
 <img 
-  align="left"
   src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luigi-Martins&theme=gruvbox" alt="General stats badge"/>
 <img 
-  align="left"
   src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luigi-Martins&theme=gruvbox" alt="Top languages by repo badge"/>
   <img
-    align="left"
     src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luigi-Martins&theme=gruvbox&utcOffset=8" alt="Commits per day badge"/>
     ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luigi-Martins&theme=gruvbox)
 
