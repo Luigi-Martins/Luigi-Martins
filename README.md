@@ -14,11 +14,13 @@ Hoje, meu objetivo é expandir esse conhecimento para o ecossistema Full Stack. 
   align="left"
   src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luigi-Martins&theme=gruvbox" alt="General stats badge"/>
 align="left"
-  alt="GitHub Stats"
-  height="150px"
-  style="padding-right: 10px"
-src="code-stack-gamma.vercel.app/api/top-langs/?username=Luigi-Martins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" />
-
+<img 
+  align="left"
+  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luigi-Martins&theme=gruvbox" alt="Top languages by repo badge"/>
+  <img
+    align="left"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luigi-Martins&theme=gruvbox&utcOffset=8" alt="Commits per day badge"/>
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luigi-Martins&theme=gruvbox)
 
 
 ### 🤖 Linguagens e Tecnologias
