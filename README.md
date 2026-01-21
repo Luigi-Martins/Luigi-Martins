@@ -13,7 +13,7 @@
    | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luigi-Martins&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luigi-Martins&theme=gruvbox) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luigi-Martins&theme=gruvbox&utcOffset=8) | 
   | :-: | :-: | :-: |
   
- |  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luigi-Martins&theme=gruvbox) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luigi-Martins&theme=gruvbox&hide_border=true)](https://git.io/streak-stats) |
+ |  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luigi-Martins&theme=gruvbox) | [![GitHub Streak](https://github-readme-streak-stats-two-drab.vercel.app?user=Luigi-Martins&theme=gruvbox)](https://git.io/streak-stats) |
  | :-: | :-: |
  <br/>
   </div>
