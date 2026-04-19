@@ -90,6 +90,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-ori
   title="Git"
   width="28px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+ <img
+  alt="Tailwind"
+  title="tailwind"
+  width="28px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />      
 </div>
  <br/>
   <br/>
