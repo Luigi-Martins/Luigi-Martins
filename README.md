@@ -51,12 +51,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
   style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img
-  alt="Nodejs"
-  title="Nodejs"
-  width="30px"
-  style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img
   alt="Docker"
   title="Docker"
   width="30px"
@@ -74,12 +68,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-p
   width="30px"
   style="padding-right: 10px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-<img
-  alt="Nextjs"
-  title="Nextjs"
-  width="30px"
-  style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img
   alt="Figma"
   title="Figma"
